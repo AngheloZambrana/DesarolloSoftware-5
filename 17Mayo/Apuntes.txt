@@ -1,0 +1,50 @@
+Boxing y Unboxing en .NET
+
+En .NET, boxing es el proceso de convertir un tipo de valor (como un entero) en un tipo de referencia (como un objeto). Unboxing es el proceso inverso, es decir, convertir un tipo de referencia que anteriormente fue "boxed" de vuelta a un tipo de valor.
+Ejemplo:
+
+    Boxing: int x = 123; object obj = x;
+    Unboxing: object obj = 123; int x = (int)obj;
+
+Conversiones Implícitas y Explícitas
+
+    Conversión Implícita: Ocurre cuando no hay pérdida de información. Por ejemplo, convertir un int a double es implícito porque no se pierde precisión ni datos.
+    Conversión Explícita: Se requiere cuando hay posibilidad de pérdida de información. Por ejemplo, convertir un double a int debe ser explícito porque se pierde la parte decimal.
+
+Ejemplo:
+
+    Implícita: int i = 123; double d = i;
+    Explícita: double d = 123.45; int i = (int)d; (esto trunca el valor decimal)
+
+Gestión de Memoria y IDisposable
+
+El garbage collector (GC) en .NET se encarga de gestionar la memoria, especialmente en el heap, liberando la memoria que ya no es accesible por la aplicación.
+
+Memoria no manejada
+
+    Memoria no manejada se refiere a recursos que no son directamente gestionados por el runtime de .NET, como archivos, conexiones a bases de datos, o contextos externos.
+    Para manejar estos recursos, se usa la interfaz IDisposable. Las clases que implementan IDisposable deben liberar los recursos no manejados cuando ya no se necesitan.
+
+Ejemplo de uso de IDisposable:
+
+using (var resource = new UnmanagedResource())
+{
+    // Uso del recurso
+}
+
+Interfaces Nativas y LINQ
+
+    Enumeradores: Las interfaces como IEnumerator permiten iterar sobre colecciones de forma ordenada.
+    Expresiones Lambda y LINQ: Utilizan estas interfaces para proporcionar una sintaxis concisa y poderosa para la manipulación y consulta de datos.
+    Métodos de Extensión: LINQ se basa en métodos de extensión que se aplican a tipos IEnumerable<T>, permitiendo operaciones como Where, Select, Join, etc.
+
+Ejemplo de LINQ:
+
+using System.Linq;
+
+var numbers = new List<int> { 1, 2, 3, 4, 5 };
+var evenNumbers = numbers.Where(n => n % 2 == 0).ToList();
+
+Este código filtra los números pares de una lista usando una expresión lambda y el método Where de LINQ.
+
+Tenemos dos Interfaces
