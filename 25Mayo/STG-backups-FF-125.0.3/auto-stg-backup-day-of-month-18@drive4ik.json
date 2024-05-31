@@ -1,0 +1,97 @@
+{
+    "version": "5.2",
+    "groups": [
+        {
+            "id": 1,
+            "title": "Group 1",
+            "iconColor": "hsla(200, 100%, 50%, 1)",
+            "iconUrl": null,
+            "iconViewType": "main-squares",
+            "tabs": [
+                {
+                    "url": "about:newtab",
+                    "title": "New Tab",
+                    "id": 103
+                }
+            ],
+            "isArchive": false,
+            "discardTabsAfterHide": false,
+            "discardExcludeAudioTabs": false,
+            "prependTitleToWindow": false,
+            "exportToBookmarksWhenAutoBackup": true,
+            "leaveBookmarksOfClosedTabs": false,
+            "newTabContainer": "firefox-default",
+            "ifDifferentContainerReOpen": false,
+            "excludeContainersForReOpen": [],
+            "isSticky": false,
+            "catchTabContainers": [],
+            "catchTabRules": "",
+            "moveToGroupIfNoneCatchTabRules": null,
+            "muteTabsWhenGroupCloseAndRestoreWhenOpen": false,
+            "showTabAfterMovingItIntoThisGroup": false,
+            "showOnlyActiveTabAfterMovingItIntoThisGroup": false,
+            "showNotificationAfterMovingTabIntoThisGroup": true,
+            "bookmarkId": null
+        }
+    ],
+    "lastCreatedGroupPosition": 1,
+    "defaultGroupProps": {},
+    "closePopupAfterChangeGroup": true,
+    "closePopupAfterSelectTab": false,
+    "openGroupAfterChange": false,
+    "alwaysAskNewGroupName": true,
+    "createNewGroupWhenOpenNewWindow": false,
+    "openManageGroupsInTab": true,
+    "showConfirmDialogBeforeGroupArchiving": true,
+    "showConfirmDialogBeforeGroupDelete": true,
+    "showNotificationAfterGroupDelete": true,
+    "showContextMenuOnTabs": true,
+    "showContextMenuOnLinks": true,
+    "defaultBookmarksParent": "toolbar_____",
+    "showExtendGroupsPopupWithActiveTabs": false,
+    "showTabsWithThumbnailsInManageGroups": false,
+    "fullPopupWidth": false,
+    "temporaryContainerTitle": "⌚Temporary Container",
+    "contextMenuTab": [
+        "open-in-new-window",
+        "reload",
+        "discard",
+        "remove",
+        "update-thumbnail",
+        "set-group-icon",
+        "move-tab-to-group"
+    ],
+    "contextMenuGroup": [
+        "open-in-new-window",
+        "sort-asc",
+        "sort-desc",
+        "discard",
+        "discard-other",
+        "export-to-bookmarks",
+        "unload",
+        "archive",
+        "rename",
+        "reload-all-tabs"
+    ],
+    "autoBackupEnable": true,
+    "autoBackupLastBackupTimeStamp": 1716085758,
+    "autoBackupIntervalKey": "days",
+    "autoBackupIntervalValue": 1,
+    "autoBackupIncludeTabThumbnails": true,
+    "autoBackupIncludeTabFavIcons": true,
+    "autoBackupFolderName": "STG-backups-FF-125.0.3",
+    "autoBackupByDayIndex": true,
+    "theme": "auto",
+    "hotkeys": [
+        {
+            "value": "Ctrl+Backquote",
+            "action": "load-next-group",
+            "groupId": 0
+        },
+        {
+            "value": "Ctrl+Shift+Backquote",
+            "action": "load-prev-group",
+            "groupId": 0
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/bin/Debug/net8.0/CorreccionTrabajo
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/bin/Debug/net8.0/CorreccionTrabajo.deps.json
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/bin/Debug/net8.0/CorreccionTrabajo.runtimeconfig.json
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/bin/Debug/net8.0/CorreccionTrabajo.dll
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/bin/Debug/net8.0/CorreccionTrabajo.pdb
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/CorreccionTrabajo.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/CorreccionTrabajo.AssemblyInfoInputs.cache
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/CorreccionTrabajo.AssemblyInfo.cs
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/CorreccionTrabajo.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/CorreccionTrabajo.sourcelink.json
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/CorreccionTrabajo.dll
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/refint/CorreccionTrabajo.dll
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/CorreccionTrabajo.pdb
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/CorreccionTrabajo.genruntimeconfig.cache
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/CorreccionTrabajo/obj/Debug/net8.0/ref/CorreccionTrabajo.dll

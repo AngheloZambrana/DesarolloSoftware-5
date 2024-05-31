@@ -1,0 +1,15 @@
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/22Mayo.GeneratedMSBuildEditorConfig.editorconfig
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/22Mayo.AssemblyInfoInputs.cache
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/22Mayo.AssemblyInfo.cs
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/22Mayo.csproj.CoreCompileInputs.cache
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/22Mayo.sourcelink.json
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/bin/Debug/net8.0/22Mayo
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/bin/Debug/net8.0/22Mayo.deps.json
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/bin/Debug/net8.0/22Mayo.runtimeconfig.json
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/bin/Debug/net8.0/22Mayo.dll
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/bin/Debug/net8.0/22Mayo.pdb
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/22Mayo.dll
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/refint/22Mayo.dll
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/22Mayo.pdb
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/22Mayo.genruntimeconfig.cache
+/home/fundacion/Documents/DesarolloSoftwareV/Claases/RepoOficial/DesarolloSoftware-5/22Mayo/obj/Debug/net8.0/ref/22Mayo.dll
